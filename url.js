@@ -1,6 +1,6 @@
 const ASSETS_URL = "https://raw.githubusercontent.com/mroyale/assets/legacy/";
 const ASSETS_SKIN_URL = "https://raw.githubusercontent.com/mroyale/assets/legacy/img/skins/smb_skin";
-const ASSETS_LOBBY_URL = "https://raw.githubusercontent.com/dylanzu/things/main/";
+const ASSETS_LOBBY_URL = "https://raw.githubusercontent.com/dylanzu/mroyale-lmr/main/";
 
 let LOBBY_MUSIC_URL = ASSETS_LOBBY_URL + "audio/music/lobby" + Math.floor(Math.random() * 8) + ".mp3";
 let MENU_MUSIC_URL = ASSETS_URL + "audio/music/menu.mp3";
